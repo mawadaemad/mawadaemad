@@ -1,5 +1,7 @@
-# ✨ Hello, I'm Mawada Emad ✨
- I'm a Computer Science student <br> passionate about technology, problem-solving, and building useful software. I'm currently focused on developing my skills in programming, data structures, web development, and software engineering.<br><br>💻 What I'm Working On:<br>Academic projects related to computer science fundamentals<br><br>Personal projects using C++, JavaScript, and Java<br><br>Improving my knowledge in frontend development and algorithms<br><br>🌱 I'm Learning:<br>Advanced C++ and Java concepts<br><br>Full-stack development basics<br><br>Version control with Git & GitHub<br><br>📫 How to Reach Me:<br>Email: mawadaemad30@gmail.com<br><br>LinkedIn: https://www.linkedin.com/in/mawaddaemad/
+# Hello, I'm Mawada Emad 👋
+I'm a Computer Science student <br>
+Passionate about technology, problem-solving, and building useful software. <br>
+I'm currently focused on developing my skills in programming, data structures, web development, and software engineering. <br><br>.<br><br>💻 What I'm Working On:<br>Academic projects related to computer science fundamentals<br><br>Personal projects using C++, JavaScript, and Java<br><br>Improving my knowledge in frontend development and algorithms<br><br>🌱 I'm Learning:<br>Advanced C++ and Java concepts<br><br>Full-stack development basics<br><br>Version control with Git & GitHub<br><br>📫 How to Reach Me:<br>Email: mawadaemad30@gmail.com<br><br>LinkedIn: https://www.linkedin.com/in/mawaddaemad/
 
 
 ## 🌐 Socials:
