@@ -4,19 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mawada+Emad!;" />
 </h1>
 
-<h3 align="center">A passionate Computer Science student & aspiring Data Analyst from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Computer Science student & aspiring Data Scientist from Egypt </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I'm currently working on **academic data analysis projects**
+ 🔭 I'm currently working on **academic data science projects**
  
- 🌱 I'm currently learning **Advanced Python, Machine Learning, Data Visualization**
+      I'm currently learning **Advanced Python, Machine Learning, Data Visualization**
  
- 💬 Ask me about **Python, Data Analysis, Pandas, NumPy... or anything [here](https://github.com/mawadaemad/mawadaemad/issues)**
+ 💬 Ask me about **Python, Data Science, Pandas, NumPy... or anything [here](https://github.com/mawadaemad/mawadaemad/issues)**
 
- ⚡ Fun fact **Data Scientists spend 80% of their time cleaning data and 20% complaining about cleaning data**
 
  </div>
  
