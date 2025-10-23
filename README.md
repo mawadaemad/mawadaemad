@@ -1,42 +1,98 @@
-# Hello, I'm Mawada Emad 👋
-I'm a Computer Science student <br>
-Passionate about data, technology, and problem-solving. <br>
-I enjoy turning data into insights and building meaningful software. <br>
-Currently, I'm focused on developing my skills in **data analysis**, **machine learning fundamentals**, and **data visualization**. <br><br>.<br><br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mawadaemad.mawadaemad" />
 
-💻 **What I'm Working On:**<br>
-Academic projects involving data analysis and visualization<br><br>
-Personal projects using **Python, C++, and Java**<br><br>
-Improving my knowledge in **data-driven development** and **algorithmic thinking**<br><br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mawada+Emad!;" />
+</h1>
 
-🌱 **I'm Learning:**<br>
-Advanced Python for Data Science (Pandas, NumPy)<br><br>
-Data visualization with **Matplotlib** and **Seaborn**<br><br>
-Version control and collaboration with **Git & GitHub**<br><br>
+<h3 align="center">A passionate Computer Science student & aspiring Data Analyst from Egypt 🇪🇬</h3>
 
-📫 **How to Reach Me:**<br>
-Email: [mawadaemad30@gmail.com](mailto:mawadaemad30@gmail.com)<br><br>
-LinkedIn: [linkedin.com/in/mawaddaemad](https://www.linkedin.com/in/mawaddaemad/)
+<br/>
 
----
+<div align="center">
+ 
+ 🔭 I'm currently working on **academic data analysis projects**
+ 
+ 🌱 I'm currently learning **Advanced Python, Machine Learning, Data Visualization**
+ 
+ 💬 Ask me about **Python, Data Analysis, Pandas, NumPy... or anything [here](https://github.com/mawadaemad/mawadaemad/issues)**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mawaddaemad) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mawadaemad30@gmail.com) 
+ ⚡ Fun fact **Data Scientists spend 80% of their time cleaning data and 20% complaining about cleaning data**
 
----
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:mawadaemad30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mawaddaemad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300599C.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,numpy,pandas,matplotlib" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mawadaemad/mawadaemad/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mawadaemad&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mawadaemad&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawadaemad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h2 align="center">💡 About Me</h2>
+
+<p align="center">
+I'm passionate about turning data into insights and building meaningful software. Currently focused on developing my skills in data analysis, machine learning fundamentals, and data visualization. I enjoy problem-solving and exploring how technology can make a difference.
+</p>
+
+<br/>
+
+<div align="center">
+  
+### 💻 What I'm Working On:
+- Academic projects involving data analysis and visualization
+- Personal projects using Python, C++, and Java
+- Improving my knowledge in data-driven development and algorithmic thinking
+
+### 🌱 Currently Learning:
+- Advanced Python for Data Science (Pandas, NumPy)
+- Data visualization with Matplotlib and Seaborn
+- Machine Learning fundamentals
+- Version control and collaboration with Git & GitHub
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mawadaemad&style=for-the-badge&color=blue" alt="Profile views" />
+</div>
+
+<br/>
