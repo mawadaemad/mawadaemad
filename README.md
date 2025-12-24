@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mawada+Emad!;" />
 </h1>
 
-<h3 align="center">A passionate Computer Science student & aspiring Data Scientist from Egypt </h3>
+<h3 align="center">A passionate AI student & aspiring Data Scientist from Egypt </h3>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github,vscode" />
@@ -66,7 +66,7 @@
 <h2 align="center">💡 About Me</h2>
 
 <p align="center">
-I'm passionate about turning data into insights and building meaningful software. Currently focused on developing my skills in data analysis, machine learning fundamentals, and data visualization. I enjoy problem-solving and exploring how technology can make a difference.
+I'm passionate about turning data into insights and building meaningful software. Currently focused on developing my skills in data science, machine learning , and data visualization. I enjoy problem-solving and exploring how technology can make a difference.
 </p>
 
 <br/>
@@ -75,14 +75,14 @@ I'm passionate about turning data into insights and building meaningful software
   
 ### 💻 What I'm Working On:
 - Academic projects involving data analysis and visualization
-- Personal projects using Python, C++, and Java
+- Academic projects using Python, C++, and Java
+- Personal Projects for ML and DL
 - Improving my knowledge in data-driven development and algorithmic thinking
 
-### 🌱 Currently Learning:
+###  Currently Learning:
 - Advanced Python for Data Science (Pandas, NumPy)
 - Data visualization with Matplotlib and Seaborn
-- Machine Learning fundamentals
-- Version control and collaboration with Git & GitHub
+- Machine Learning & Deep Learning
 
 </div>
 
