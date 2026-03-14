@@ -12,9 +12,7 @@
  
  🔭 I'm currently working on **academic data science projects**
  
-      I'm currently learning **Advanced Python, Machine Learning, Data Visualization**
- 
- 💬 Ask me about **Python, Data Science, Pandas, NumPy... or anything [here](https://github.com/mawadaemad/mawadaemad/issues)**
+      I'm currently learning **Advanced Python, Machine Learning, Deep Learning**
 
 
  </div>
