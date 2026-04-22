@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-# 💫 About Me:
+💫 About Me:
   I'm currently learning Advanced Python, Machine Learning, Deep Learning<br>I'm passionate about turning data into insights and building meaningful software. Currently focused on developing my skills in data science, machine learning , deep learning. I enjoy problem-solving and exploring how technology can make a difference.<br><br><br>💻 What I'm Working On:<br>Academic projects involving data analysis and visualization<br>Academic projects using Python, C++, and Java<br>Personal Projects for ML and DL<br>Improving my knowledge in data-driven development and algorithmic thinking<br>Currently Learning:<br>Advanced Python for Data Science<br>Machine Learning & Deep Learning
 
 
